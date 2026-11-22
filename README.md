@@ -5,8 +5,8 @@
 | | |
 |---|---|
 | Course | Red Team Cyber Security (ITsimpleara) |
-| Student | YOUR NAME |
-| Roll No / Batch | XXXX / XX |
+| Student | Awais |
+| Batch | 02 |
 | Issued | 16 November 2026 |
 | Deadline | 22 November 2026, 11:59 PM |
 
@@ -57,8 +57,8 @@
 
 | Machine | Role | OS | IP |
 |---|---|---|---|
-| Kali | Attacker | Kali Linux | 192.168.56.xxx |
-| Metasploitable 2 | Target | Ubuntu 8.04 (vulnerable) | 192.168.56.xxx |
+| Kali | Attacker | Kali Linux | 192.168.56.6 |
+| Metasploitable 2 | Target |  (vulnerable) | 192.168.56.8 |
 
 Network: VirtualBox **Host-only** adapter, no internet access.
 
