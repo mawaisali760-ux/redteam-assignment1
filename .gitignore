@@ -1,0 +1,14 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
+# VM files, never commit these
+*.vdi
+*.vmdk
+*.ova
+*.iso
+# Secrets
+*.key
+*.pem
+.env
